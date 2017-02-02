@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import {Map} from 'leaflet';
 
 @Component({
   selector: 'app-root',
